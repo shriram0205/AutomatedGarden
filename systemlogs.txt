@@ -1,0 +1,46 @@
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Strawberry is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Strawberry is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Orange is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Orange is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Apple is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Apple is Inititated 
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Orange is notified of snow
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Apple is notified of rain
+Feb 25, 2016 1:05:37 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Apple is sprinkled with 2
+Feb 25, 2016 1:05:37 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Apple is sprinkled with 2
+Feb 25, 2016 1:05:38 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Orange is sprinkled with 2
+Feb 25, 2016 1:05:38 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Orange is sprinkled with 2
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Strawberry is Turned ON
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Strawberry is sprinkled with 2
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Sprinkler for the plant Strawberry is Turned OFF
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Strawberry is Turned ON
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Strawberry is Turned OFF
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Orange is Turned Still OFF because it is Already sprinkled
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Apple is Turned ON
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Apple is Turned OFF
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Apple is Turned Still OFF because it is Already sprinkled
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Orange is Turned ON
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The Heater for the plant Orange is Turned OFF

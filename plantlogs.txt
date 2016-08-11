@@ -1,0 +1,18 @@
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The plant Apple is sprinkled with 1 (By rain)
+Feb 25, 2016 1:05:37 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Apple is Turned ON by force 
+Feb 25, 2016 1:05:37 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Apple is Turned ON by force 
+Feb 25, 2016 1:05:38 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Orange is Turned ON by force 
+Feb 25, 2016 1:05:38 AM edu.su.gardensystem.controller.Log writeLog
+WARNING:  The Sprinkler for the plant Orange is Turned ON by force 
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The the plant Strawberry is now Seed
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Strawberry is heated for 3
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Apple is heated for 3
+Feb 25, 2016 1:05:39 AM edu.su.gardensystem.controller.Log writeLog
+INFO:  The plant Orange is heated for 3

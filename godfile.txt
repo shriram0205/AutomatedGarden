@@ -1,0 +1,14 @@
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: God comes to play !!!
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New Regular day has started for Sprinkler System for the plant Strawberry
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New Regular day has started for Heater System for the plant Strawberry
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New Regular day has started for Sprinkler System for the plant Orange
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New day with snow has started for Heater System for the plant Orange
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New day with rain has started for Sprinkler System for the plant Apple
+Feb 25, 2016 1:05:29 AM edu.su.gardensystem.controller.Log writeLog
+INFO: The New Regular day has started for Heater System for the plant Apple
